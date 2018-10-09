@@ -83,5 +83,8 @@ methods that make it cleaner to add logic to our views.
   only display the username and account balance if the user is logged in.
   Otherwise, it should contain a link to the home page. You'll also want to use
   `current_user` to display the username and balance.
+  
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sinatra-logging-in-and-out/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sinatra-logging-in-and-out/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 
 <p data-visibility='hidden'>PHRG Sinatra Sessions Lab - User Logins</p>
